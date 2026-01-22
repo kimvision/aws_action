@@ -6,6 +6,7 @@ st.write("확인")
 st.write("반가워요!")
 st.write("오늘 날씨가 추워요!")
 st.write("그래요")
+st.write("잘돼냐??")
 
 st.sidebar.header("설정")
 name = st.text_input("이름을 입력하세요", "사용자")
